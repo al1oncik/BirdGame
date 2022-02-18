@@ -1,4 +1,5 @@
 installation:
+
   sudo apt install python3 pip git
   
   pip install pygame
